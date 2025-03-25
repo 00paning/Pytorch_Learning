@@ -25,3 +25,4 @@ y_pred= tensor([[7.9996]])
 ## 11.GoogleNet  
 - Accuracy on test set: 98 %  
   相比上面的网络，准确度又提高了1%  
+## 12.ResNet  
