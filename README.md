@@ -22,3 +22,6 @@ y_pred= tensor([[7.9996]])
 ## 9.对MNIST数据集的分类  
 ## 10.CNN  
 - 一个简单的CNN网络对手写数据集进行分类  
+## 11.GoogleNet  
+- Accuracy on test set: 98 %  
+  相比上面的网络，准确度又提高了1%  
